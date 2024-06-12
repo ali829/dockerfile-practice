@@ -1,0 +1,9 @@
+{
+    "name": "my-app",
+    "scripts": {
+        "dev": "nodemon -L src/server.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
